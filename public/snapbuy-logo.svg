@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#4D3E27"/>
+  <path d="M35,35 L65,35 L65,65 L35,65 Z" fill="#A9A18C"/>
+  <text x="50" y="60" text-anchor="middle" fill="#D6D7D2" font-size="40" font-family="Inter">SB</text>
+</svg>
